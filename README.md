@@ -77,20 +77,20 @@ Strategic Insights
 
 Menu Strategy
 
-*Balanced category spread (~25% each) ensures portfolio stability
-*Premium flavors (Thai Chicken, Barbecue) achieve higher revenue despite average sales counts
-*Large size dominates revenue, driving operational efficiency
+* Balanced category spread (~25% each) ensures portfolio stability
+* Premium flavors (Thai Chicken, Barbecue) achieve higher revenue despite average sales counts
+* Large size dominates revenue, driving operational efficiency
 
 Operational Focus
 
-*Staffing: Fridays require the heaviest workforce allocation
-*Ingredients: Classic and Barbecue ingredients need priority supply management
-*Seasonal: July represents the highest demand, requiring strong capacity planning
+* Staffing: Fridays require the heaviest workforce allocation
+* Ingredients: Classic and Barbecue ingredients need priority supply management
+* Seasonal: July represents the highest demand, requiring strong capacity planning
 
 Growth Opportunities
 
-*Sunday & Monday: Boost through targeted deals and promotions
-*Upselling: Convert Medium buyers into Large purchasers
-*Bundles: Raise average pizzas per order above 2.32
+* Sunday & Monday: Boost through targeted deals and promotions
+* Upselling: Convert Medium buyers into Large purchasers
+* Bundles: Raise average pizzas per order above 2.32
 
 December Strategy: Introduce holiday specials to counter the seasonal dip
