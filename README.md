@@ -1,33 +1,35 @@
 # Pizza-Sales-Dahboard
 Business Overview In 2015, our pizza restaurant generated $809,200 in revenue, selling 49,043 pizzas across 21,144 orders. This report delivers a full set of performance insights to support informed business decisions.
-:pizza:
+
 Key Performance Indicators
 
-Revenue Metrics
 
-*Total Revenue: $809.20K
-*Average Order Value: $38.27
-*Average Pizzas per Order: 2.32
+| 📊 Metric              | 🔢 Value  |
+|-------------------------|-----------|
+| Total Revenue           | $809,200  |
+| Total Orders            | 21,144    |
+| Total Pizzas Sold       | 49,043    |
+| Avg. Order Value        | $38.27    |
+| Avg. Pizzas per Order   | 2.32      |
 
-Volume Metrics
-
-*Total Pizzas Sold: 49,043
-*Total Orders: 21,144
 
 Sales Patterns
 
 Daily Trends
-📈 Orders & Revenue Overview
+| 📆 Day    | 💵 Revenue | 🛒 Orders | 📊 Note               |
+|-----------|------------|-----------|-----------------------|
+| Friday    | $136K      | 3,500     | 🔝 Peak day           |
+| Sunday    | $98K       | 2,600     | 📉 Lowest day         |
+| Trend     | ⬆️ Steady growth from Sunday → Friday | |  
 
-*Friday: Strongest day ($136K, 3.5K orders)
-*Sunday: Weakest day ($98K, 2.6K orders
-*Trend: Revenue and orders steadily climb from Sunday through Friday
 
 Monthly Performance
 
-*Highest Month: July ($72.6K)
-*Lowest Month: December ($56K)
-*Seasonal Highlight: June through August consistently deliver strong results
+| 📅 Month    | 💵 Revenue | 📊 Note                 |
+|-------------|------------|-------------------------|
+| July        | $72.6K     | 🔝 Best month           |
+| December    | $56K       | 📉 Weakest month        |
+| Summer (Jun–Aug) | Strong | ☀️ Consistent strength |
 
 Product Portfolio Analysis
 
@@ -41,20 +43,35 @@ Category Performance
 
 
 Size Distribution
+| 📐 Size | 💵 Revenue | 📊 Share |
+|---------|------------|----------|
+| Large   | $371.59K   | 45.92%  |
+| Medium  | $246.48K   | 30.46%  |
+| Small   | $176.15K   | 21.77%  |
+| XL & XXL| ~ $15K     | ~2%     |
 
-*Large: $371.59K (45.92% of revenue)
-*Medium: $246.48K (30.46%)
-*Small: $176.15K (21.77%)
-*XL & XXL: ~2% combined contribution
 
 Product Stars & Opportunities
+| 🥇 Product         | 💵 Revenue |
+|--------------------|------------|
+| Thai Chicken       | $43K       |
+| Barbecue Chicken   | $42K       |
+| California         | $41K       |
 
-*Top Revenue Drivers: Thai Chicken ($43K), Barbecue Chicken ($42K), California ($41K)
-*Best-Selling by Volume: Classic Deluxe (2.4K), Barbecue Chicken (2.4K), Hawaiian (2.4K)
+| 🏆 Product         | 🔥 Units Sold |
+|--------------------|---------------|
+| Classic Deluxe     | 2,400         |
+| Barbecue Chicken   | 2,400         |
+| Hawaiian           | 2,400         |
+
+
 *Underperformers:
-**Brie Carre: Lowest in all performance areas
-**Mediterranean: Weak sales despite mid-range pricing
-**Spinach Supreme: Potential candidate for repositioning
+| ⚠️ Product          | 📉 Notes                             |
+|---------------------|---------------------------------------|
+| Brie Carre          | Lowest performance across all metrics |
+| Mediterranean       | Low volume despite mid-tier pricing   |
+| Spinach Supreme     | Candidate for repositioning           |
+
 
 Strategic Insights
 
