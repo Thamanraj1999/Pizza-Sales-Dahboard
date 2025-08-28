@@ -32,12 +32,13 @@ Monthly Performance
 Product Portfolio Analysis
 
 Category Performance
+| 🍕 Category | 💵 Revenue | 📊 Share |
+|-------------|------------|----------|
+| Classic     | $217.58K   | 26.89%  |
+| Supreme     | $206.16K   | 25.48%  |
+| Chicken     | $193.93K   | 23.97%  |
+| Veggie      | $191.53K   | 23.67%  |
 
-Category	Revenue	Share
-|Classic	|$217.58K|	26.89%|
-|Supreme	|$206.16K|	25.48%|
-|Chicken	|$193.93K|  23.97%|
-|Veggie	  |$191.53K|	23.67%|
 
 Size Distribution
 
