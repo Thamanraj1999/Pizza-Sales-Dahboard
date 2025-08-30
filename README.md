@@ -94,3 +94,10 @@ Growth Opportunities
 * Bundles: Raise average pizzas per order above 2.32
 
 December Strategy: Introduce holiday specials to counter the seasonal dip
+
+<img width="1372" height="744" alt="image" src="https://github.com/user-attachments/assets/665f891a-ec4f-406e-b8d1-0131e980b410" />
+
+<img width="1499" height="732" alt="image" src="https://github.com/user-attachments/assets/63740816-6aa4-42b2-9b8d-0115dee1a723" />
+
+![Uploading image.png…]()
+
